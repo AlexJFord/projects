@@ -4,8 +4,6 @@ Below is a collection of websites I have built and maintained.
 
 -   [Fieldcraft](http://barrettfieldcraft.com/)
 
--   [Barrett](https://barrett.net/)
-
 -   [BE Meyers](https://bemeyers.com/)
 
 -   [IDS](https://caas.informationdiscovery.net/)
@@ -15,6 +13,8 @@ Below is a collection of websites I have built and maintained.
 -   [SilencerCo](https://silencerco.com/)
 
 -   [ECS](https://ecscase.com/)
+
+-   [Barrett](https://barrett.net/)
 
 -   [Lawn Keeper](http://mylawnkeeper.com/)
 
