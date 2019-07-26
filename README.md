@@ -6,8 +6,6 @@ Below is a collection of websites I have built and maintained.
 
 -   [BE Meyers](https://bemeyers.com/)
 
--   [IDS](https://caas.informationdiscovery.net/)
-
 -   [Radian](https://radianweapons.com/)
 
 -   [SilencerCo](https://silencerco.com/)
@@ -15,6 +13,8 @@ Below is a collection of websites I have built and maintained.
 -   [ECS](https://ecscase.com/)
 
 -   [Barrett](https://barrett.net/)
+
+-   [IDS](https://caas.informationdiscovery.net/)
 
 -   [Lawn Keeper](http://mylawnkeeper.com/)
 
