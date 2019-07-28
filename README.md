@@ -5,7 +5,7 @@ Below is a collection of websites I have built and maintained as well as my prim
 -   [Fieldcraft](http://barrettfieldcraft.com/)
 
     -   Lead developer
-    -   Deployment
+    -   DevOps
 
 -   [BE Meyers](https://bemeyers.com/)
 
@@ -18,27 +18,27 @@ Below is a collection of websites I have built and maintained as well as my prim
 -   [SilencerCo](https://silencerco.com/)
 
     -   Lead developer
-    -   Deployment
+    -   DevOps
 
 -   [ECS](https://ecscase.com/)
 
     -   Lead developer
-    -   Deployment
+    -   DevOps
 
 -   [qwerk](https://qwerk.me/)
 
     -   Full stack developer
-    -   Deployment
+    -   DevOps
 
 -   [Barrett](https://barrett.net/)
 
     -   Full stack developer
-    -   Deployment
+    -   DevOps
 
 -   [IDS](https://caas.informationdiscovery.net/)
 
     -   Full stack developer
-    -   Deployment
+    -   DevOps
 
 -   [Lawn Keeper](http://mylawnkeeper.com/)
 
@@ -51,4 +51,4 @@ Below is a collection of websites I have built and maintained as well as my prim
 -   [IMPs](http://soundview.citywiseads.com)
 
     -   Full stack developer
-    -   Deployment
+    -   DevOps
